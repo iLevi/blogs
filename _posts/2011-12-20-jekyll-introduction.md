@@ -1,6 +1,6 @@
 ---
 layout: post
-category : 例子
+category : jekyll使用
 tagline: "Supporting tagline"
 ---
 {% include JB/setup %}
