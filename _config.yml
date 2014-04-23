@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Delon Chen Blogs
+title : Delon Blogs
 tagline: Site Tagline
 author :
-  name : delonchen
+  name : Delon Chen
   email : delonchen@126.com
   github : https://github.com/delonchen2011
   twitter : ""
